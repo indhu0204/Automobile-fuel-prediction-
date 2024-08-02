@@ -1,1 +1,2 @@
 # Automobile-fuel-prediction-
+Predicting fuel efficiency based on various automotive attributes, enabling manufacturers to optimize designs and gain a competitive edge. To develop a predictive model that effectively analyzes automotive attributes to provide precise fuel efficiency predictions. We will experiment with various machine learning models in order to find one that best predicts the fuel efficiency
